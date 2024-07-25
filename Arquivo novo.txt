@@ -1,1 +1,3 @@
 Novo arquivo criado em nuvem
+EDIT:
+Arquivo alterado em máquina local
